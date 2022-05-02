@@ -13,7 +13,6 @@ public class Main {
         } else {
             play = false;
             System.out.println("Obrigado por jogar!");
-            );
         }
         return play;
     }
