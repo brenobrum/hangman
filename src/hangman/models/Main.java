@@ -12,6 +12,8 @@ public class Main {
             play = true;
         } else {
             play = false;
+            System.out.println("Obrigado por jogar!");
+            );
         }
         return play;
     }
