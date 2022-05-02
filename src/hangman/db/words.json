@@ -1,0 +1,802 @@
+[
+  {
+    "value": "banana",
+    "difficulty": 1
+  },
+  {
+    "value": "caneta",
+    "difficulty": 1
+  },
+  {
+    "value": "dezena",
+    "difficulty": 1
+  },
+  {
+    "value": "farofa",
+    "difficulty": 1
+  },
+  {
+    "value": "hora",
+    "difficulty": 1
+  },
+  {
+    "value": "lixo",
+    "difficulty": 1
+  },
+  {
+    "value": "mamao",
+    "difficulty": 1
+  },
+  {
+    "value": "noite",
+    "difficulty": 1
+  },
+  {
+    "value": "pirulito",
+    "difficulty": 1
+  },
+  {
+    "value": "xicara",
+    "difficulty": 1
+  },
+  {
+    "value": "azedo",
+    "difficulty": 1
+  },
+  {
+    "value": "beijo",
+    "difficulty": 1
+  },
+  {
+    "value": "coleira",
+    "difficulty": 1
+  },
+  {
+    "value": "duzia",
+    "difficulty": 1
+  },
+  {
+    "value": "goiaba",
+    "difficulty": 1
+  },
+  {
+    "value": "humano",
+    "difficulty": 1
+  },
+  {
+    "value": "jabuti",
+    "difficulty": 1
+  },
+  {
+    "value": "moeda",
+    "difficulty": 1
+  },
+  {
+    "value": "novela",
+    "difficulty": 1
+  },
+  {
+    "value": "oito",
+    "difficulty": 1
+  },
+  {
+    "value": "roupa",
+    "difficulty": 1
+  },
+  {
+    "value": "sabao",
+    "difficulty": 1
+  },
+  {
+    "value": "zero",
+    "difficulty": 1
+  },
+  {
+    "value": "tucano",
+    "difficulty": 1
+  },
+  {
+    "value": "xarope",
+    "difficulty": 1
+  },
+  {
+    "value": "quiabo",
+    "difficulty": 2
+  },
+  {
+    "value": "barriga",
+    "difficulty": 2
+  },
+  {
+    "value": "passaro",
+    "difficulty": 2
+  },
+  {
+    "value": "tesoura",
+    "difficulty": 2
+  },
+  {
+    "value": "chapeu",
+    "difficulty": 2
+  },
+  {
+    "value": "rainha",
+    "difficulty": 2
+  },
+  {
+    "value": "agulha",
+    "difficulty": 2
+  },
+  {
+    "value": "tartaruga",
+    "difficulty": 2
+  },
+  {
+    "value": "fosforo",
+    "difficulty": 2
+  },
+  {
+    "value": "feliz",
+    "difficulty": 2
+  },
+  {
+    "value": "globo",
+    "difficulty": 2
+  },
+  {
+    "value": "volante",
+    "difficulty": 2
+  },
+  {
+    "value": "pincel",
+    "difficulty": 2
+  },
+  {
+    "value": "livro",
+    "difficulty": 2
+  },
+  {
+    "value": "flor",
+    "difficulty": 2
+  },
+  {
+    "value": "cenoura",
+    "difficulty": 2
+  },
+  {
+    "value": "umbigo",
+    "difficulty": 2
+  },
+  {
+    "value": "colegio",
+    "difficulty": 2
+  },
+  {
+    "value": "guerra",
+    "difficulty": 2
+  },
+  {
+    "value": "creme",
+    "difficulty": 2
+  },
+  {
+    "value": "vidro",
+    "difficulty": 2
+  },
+  {
+    "value": "grama",
+    "difficulty": 2
+  },
+  {
+    "value": "planeta",
+    "difficulty": 2
+  },
+  {
+    "value": "bloco",
+    "difficulty": 2
+  },
+  {
+    "value": "clinica",
+    "difficulty": 2
+  },
+  {
+    "value": "cabeleireiro",
+    "difficulty": 3
+  },
+  {
+    "value": "advogado",
+    "difficulty": 3
+  },
+  {
+    "value": "absurdo",
+    "difficulty": 3
+  },
+  {
+    "value": "desenhar",
+    "difficulty": 3
+  },
+  {
+    "value": "familia",
+    "difficulty": 3
+  },
+  {
+    "value": "ontem",
+    "difficulty": 3
+  },
+  {
+    "value": "jeito",
+    "difficulty": 3
+  },
+  {
+    "value": "mexer",
+    "difficulty": 3
+  },
+  {
+    "value": "problema",
+    "difficulty": 3
+  },
+  {
+    "value": "preguica",
+    "difficulty": 3
+  },
+  {
+    "value": "faxina",
+    "difficulty": 3
+  },
+  {
+    "value": "fugir",
+    "difficulty": 3
+  },
+  {
+    "value": "corrigir",
+    "difficulty": 3
+  },
+  {
+    "value": "jejum",
+    "difficulty": 3
+  },
+  {
+    "value": "microbio",
+    "difficulty": 3
+  },
+  {
+    "value": "atraso",
+    "difficulty": 3
+  },
+  {
+    "value": "bicicleta",
+    "difficulty": 3
+  },
+  {
+    "value": "folclore",
+    "difficulty": 3
+  },
+  {
+    "value": "exemplo",
+    "difficulty": 3
+  },
+  {
+    "value": "atras",
+    "difficulty": 3
+  },
+  {
+    "value": "mendigo",
+    "difficulty": 3
+  },
+  {
+    "value": "mortadela",
+    "difficulty": 3
+  },
+  {
+    "value": "bege",
+    "difficulty": 3
+  },
+  {
+    "value": "fogueira",
+    "difficulty": 3
+  },
+  {
+    "value": "caranguejo",
+    "difficulty": 3
+  },
+  {
+    "value": "enxergar",
+    "difficulty": 4
+  },
+  {
+    "value": "sobrancelha",
+    "difficulty": 4
+  },
+  {
+    "value": "milionario",
+    "difficulty": 4
+  },
+  {
+    "value": "travesseiro",
+    "difficulty": 4
+  },
+  {
+    "value": "padrasto",
+    "difficulty": 4
+  },
+  {
+    "value": "madrasta",
+    "difficulty": 4
+  },
+  {
+    "value": "higiene",
+    "difficulty": 4
+  },
+  {
+    "value": "cadarco",
+    "difficulty": 4
+  },
+  {
+    "value": "cansaco",
+    "difficulty": 4
+  },
+  {
+    "value": "quiseram",
+    "difficulty": 4
+  },
+  {
+    "value": "pesquisa",
+    "difficulty": 4
+  },
+  {
+    "value": "textual",
+    "difficulty": 4
+  },
+  {
+    "value": "quase",
+    "difficulty": 4
+  },
+  {
+    "value": "companhia",
+    "difficulty": 4
+  },
+  {
+    "value": "cerebro",
+    "difficulty": 4
+  },
+  {
+    "value": "refrigerante",
+    "difficulty": 4
+  },
+  {
+    "value": "prezado",
+    "difficulty": 4
+  },
+  {
+    "value": "periquito",
+    "difficulty": 4
+  },
+  {
+    "value": "asterisco",
+    "difficulty": 4
+  },
+  {
+    "value": "aptidao",
+    "difficulty": 4
+  },
+  {
+    "value": "helice",
+    "difficulty": 4
+  },
+  {
+    "value": "coceira",
+    "difficulty": 4
+  },
+  {
+    "value": "pressa",
+    "difficulty": 4
+  },
+  {
+    "value": "explodir",
+    "difficulty": 4
+  },
+  {
+    "value": "ninguem",
+    "difficulty": 4
+  },
+  {
+    "value": "bicarbonato",
+    "difficulty": 5
+  },
+  {
+    "value": "delinquente",
+    "difficulty": 5
+  },
+  {
+    "value": "perturbar",
+    "difficulty": 5
+  },
+  {
+    "value": "expansao",
+    "difficulty": 5
+  },
+  {
+    "value": "toracico",
+    "difficulty": 5
+  },
+  {
+    "value": "sessenta",
+    "difficulty": 5
+  },
+  {
+    "value": "meteorologia",
+    "difficulty": 5
+  },
+  {
+    "value": "privilegio",
+    "difficulty": 5
+  },
+  {
+    "value": "conjuge",
+    "difficulty": 5
+  },
+  {
+    "value": "promessa",
+    "difficulty": 5
+  },
+  {
+    "value": "ziquizira",
+    "difficulty": 5
+  },
+  {
+    "value": "piscina",
+    "difficulty": 5
+  },
+  {
+    "value": "macete",
+    "difficulty": 5
+  },
+  {
+    "value": "empecilho",
+    "difficulty": 5
+  },
+  {
+    "value": "mal-humorado",
+    "difficulty": 5
+  },
+  {
+    "value": "exclamar",
+    "difficulty": 5
+  },
+  {
+    "value": "ansioso",
+    "difficulty": 5
+  },
+  {
+    "value": "confessar",
+    "difficulty": 5
+  },
+  {
+    "value": "necessidade",
+    "difficulty": 5
+  },
+  {
+    "value": "profissao",
+    "difficulty": 5
+  },
+  {
+    "value": "ziguezague",
+    "difficulty": 5
+  },
+  {
+    "value": "remessa",
+    "difficulty": 5
+  },
+  {
+    "value": "surpresa",
+    "difficulty": 5
+  },
+  {
+    "value": "idolatrado",
+    "difficulty": 5
+  },
+  {
+    "value": "cinquenta",
+    "difficulty": 5
+  },
+  {
+    "value": "aquiescer",
+    "difficulty": 6
+  },
+  {
+    "value": "reivindicar",
+    "difficulty": 6
+  },
+  {
+    "value": "recauchutar",
+    "difficulty": 6
+  },
+  {
+    "value": "impressao",
+    "difficulty": 6
+  },
+  {
+    "value": "licenca",
+    "difficulty": 6
+  },
+  {
+    "value": "estender",
+    "difficulty": 6
+  },
+  {
+    "value": "hesitar",
+    "difficulty": 6
+  },
+  {
+    "value": "superfluo",
+    "difficulty": 6
+  },
+  {
+    "value": "coincidencia",
+    "difficulty": 6
+  },
+  {
+    "value": "frustracao",
+    "difficulty": 6
+  },
+  {
+    "value": "prostracao",
+    "difficulty": 6
+  },
+  {
+    "value": "insensivel",
+    "difficulty": 6
+  },
+  {
+    "value": "irrequieto",
+    "difficulty": 6
+  },
+  {
+    "value": "discussao",
+    "difficulty": 6
+  },
+  {
+    "value": "execucao",
+    "difficulty": 6
+  },
+  {
+    "value": "consenso",
+    "difficulty": 6
+  },
+  {
+    "value": "distorcao",
+    "difficulty": 6
+  },
+  {
+    "value": "procrastinar",
+    "difficulty": 6
+  },
+  {
+    "value": "prestigio",
+    "difficulty": 6
+  },
+  {
+    "value": "suspense",
+    "difficulty": 6
+  },
+  {
+    "value": "subsidio",
+    "difficulty": 6
+  },
+  {
+    "value": "experiencia",
+    "difficulty": 6
+  },
+  {
+    "value": "caatinga",
+    "difficulty": 6
+  },
+  {
+    "value": "retrogrado",
+    "difficulty": 6
+  },
+  {
+    "value": "esteril",
+    "difficulty": 6
+  },
+  {
+    "value": "vicissitude",
+    "difficulty": 7
+  },
+  {
+    "value": "concessao",
+    "difficulty": 7
+  },
+  {
+    "value": "macico",
+    "difficulty": 7
+  },
+  {
+    "value": "excecao",
+    "difficulty": 7
+  },
+  {
+    "value": "ascensao",
+    "difficulty": 7
+  },
+  {
+    "value": "oprobrio",
+    "difficulty": 7
+  },
+  {
+    "value": "exordio",
+    "difficulty": 7
+  },
+  {
+    "value": "beneficencia",
+    "difficulty": 7
+  },
+  {
+    "value": "conspurcar",
+    "difficulty": 7
+  },
+  {
+    "value": "excesso",
+    "difficulty": 7
+  },
+  {
+    "value": "persistencia",
+    "difficulty": 7
+  },
+  {
+    "value": "quinquilharia",
+    "difficulty": 7
+  },
+  {
+    "value": "obsessao",
+    "difficulty": 7
+  },
+  {
+    "value": "capcioso",
+    "difficulty": 7
+  },
+  {
+    "value": "coalizao",
+    "difficulty": 7
+  },
+  {
+    "value": "extraterrestre",
+    "difficulty": 7
+  },
+  {
+    "value": "infeccioso",
+    "difficulty": 7
+  },
+  {
+    "value": "exclusividade",
+    "difficulty": 7
+  },
+  {
+    "value": "abstinencia",
+    "difficulty": 7
+  },
+  {
+    "value": "itinerancia",
+    "difficulty": 7
+  },
+  {
+    "value": "incontroversia",
+    "difficulty": 7
+  },
+  {
+    "value": "impronunciamento",
+    "difficulty": 7
+  },
+  {
+    "value": "interdisciplinaridade",
+    "difficulty": 7
+  },
+  {
+    "value": "profissionalizacao",
+    "difficulty": 7
+  },
+  {
+    "value": "inconstitucional",
+    "difficulty": 7
+  },
+  {
+    "value": "coccix",
+    "difficulty": 8
+  },
+  {
+    "value": "consociacao",
+    "difficulty": 8
+  },
+  {
+    "value": "idiossincrasia",
+    "difficulty": 8
+  },
+  {
+    "value": "assertividade",
+    "difficulty": 8
+  },
+  {
+    "value": "impeachment",
+    "difficulty": 8
+  },
+  {
+    "value": "reveillon",
+    "difficulty": 8
+  },
+  {
+    "value": "zooplancton",
+    "difficulty": 8
+  },
+  {
+    "value": "inconsistencia",
+    "difficulty": 8
+  },
+  {
+    "value": "percuciencia",
+    "difficulty": 8
+  },
+  {
+    "value": "senescencia",
+    "difficulty": 8
+  },
+  {
+    "value": "assoreamento",
+    "difficulty": 8
+  },
+  {
+    "value": "ressurreicao",
+    "difficulty": 8
+  },
+  {
+    "value": "ascensorista",
+    "difficulty": 8
+  },
+  {
+    "value": "imunodeficiencia",
+    "difficulty": 8
+  },
+  {
+    "value": "fosforescencia",
+    "difficulty": 8
+  },
+  {
+    "value": "transubstanciacao",
+    "difficulty": 8
+  },
+  {
+    "value": "meningococito",
+    "difficulty": 8
+  },
+  {
+    "value": "antropocentrismo",
+    "difficulty": 8
+  },
+  {
+    "value": "incompatilibizacao",
+    "difficulty": 8
+  },
+  {
+    "value": "otorrinolaringologista",
+    "difficulty": 8
+  },
+  {
+    "value": "anticonstitucionalmente",
+    "difficulty": 8
+  },
+  {
+    "value": "desincompatibilizacao",
+    "difficulty": 8
+  },
+  {
+    "value": "incompreensibilidade",
+    "difficulty": 8
+  },
+  {
+    "value": "inconstitucionalissimamente",
+    "difficulty": 8
+  },
+  {
+    "value": "esternocleidomastoideo",
+    "difficulty": 8
+  }
+]
