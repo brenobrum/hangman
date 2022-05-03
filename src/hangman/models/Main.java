@@ -1,26 +1,23 @@
 package hangman.models;
 
-import java.io.PrintStream;
 import java.util.Scanner;
 
 public class Main {
 
     public static boolean playAgain(Scanner scanner, Boolean play) {
-        System.out.println("Deseja jogar novamente? (S/N)");
+        System.out.println("/nDeseja jogar novamente? (S/N)");
         String playConfirmation = scanner.next().toUpperCase();
-        if (playConfirmation.equals("S")) {
-            play = true;
-        } else {
-            play = false;
+        if (playConfirmation.equals("N")) {
             System.out.println("Obrigado por jogar!");
+            System.exit(0);
         }
-        return play;
+        return false;
     }
 
 
     public static void main(String[] args) {
-        boolean play = true;
         do {
+            boolean play = true;
             Scanner scanner = new Scanner(System.in);
             System.out.print("Digite seu nome: ");
             String name = scanner.nextLine();
@@ -56,17 +53,21 @@ public class Main {
 
                 if (player.isAlive()) {
                     System.out.println(player.getName() + " voce perdeu. Tente novamente.");
-                    System.out.println("A palavra era: " + game.getWord().value());
+                    System.out.println("A palavra era: " + game.getWord().value().toUpperCase());
+                    System.out.println("Letras utilizadas: " + game.getUsedChars());
                     System.out.println("A dificuldade era: " + game.getWord().difficulty());
                     play = playAgain(scanner, play);
                 }
                 if (game.isComplete()) {
                     System.out.println("**********");
+                    player.showPlayerHanging();
+                    System.out.println("A palavra era: " + game.getWord().value().toUpperCase());
+                    System.out.println("Letras utilizadas: " + game.getUsedChars());
                     System.out.println(player.getName() + " PARABENS!!! Voce ganhou!!!");
                     System.out.println("**********");
                     play = playAgain(scanner, play);
                 }
             }
-        } while (play);
+        } while (true);
     }
 }
