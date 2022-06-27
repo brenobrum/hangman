@@ -2,7 +2,7 @@ package hangman.models;
 
 import java.util.ArrayList;
 
-public class Player implements IPlayer{
+public class Player{
     private final String name;
     private int life;
     private final ArrayList<String> hangManImages;
@@ -86,8 +86,8 @@ public class Player implements IPlayer{
         return hangman_images;
     }
 
-    public void showPlayerHanging() {
-        System.out.println(this.hangManImages.get(this.getLife()));
+    public String showPlayerHanging() {
+        return this.hangManImages.get(this.getLife());
     }
 
     public boolean isAlive(){

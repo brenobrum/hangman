@@ -1,0 +1,39 @@
+PlayerName: Breno
+Difficulty: 1
+Word: GOIABA
+Chars: A, S, D, F, G, H, J, Y
+playerState: 
+  +---+
+  |   |
+  O   |
+ /|\  |
+ / \  |
+      |
+=========
+
+PlayerName: Breno
+Difficulty: 1
+Word: MAMAO
+Chars: A, S, D, F, G, H, J
+playerState: 
+  +---+
+  |   |
+  O   |
+ /|\  |
+ / \  |
+      |
+=========
+
+PlayerName: Matues
+Difficulty: 8
+Word: FOSFORESCENCIA
+Chars: A, E, I, O, U, S, M, C, F, R, N
+playerState: 
+  +---+
+  |   |
+  O   |
+  |   |
+      |
+      |
+=========
+

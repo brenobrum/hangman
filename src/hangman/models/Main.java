@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
     public static boolean playAgain(Scanner scanner, Boolean play) {
-        System.out.println("/nDeseja jogar novamente? (S/N)");
+        System.out.println("Deseja jogar novamente? (S/N)");
         String playConfirmation = scanner.next().toUpperCase();
         if (playConfirmation.equals("N")) {
             System.out.println("Obrigado por jogar!");
@@ -17,6 +17,7 @@ public class Main {
 
     public static void main(String[] args) {
         do {
+            CommandExecuter commands = new CommandExecuter();
             boolean play = true;
             Scanner scanner = new Scanner(System.in);
             System.out.print("Digite seu nome: ");
@@ -39,10 +40,10 @@ public class Main {
             } while (!valid);
             Player player = new Player(name);
             Game game = new Game(difficulty);
-
+            commands.add(new PlayerLog(name, difficulty));
             while (play) {
 
-                player.showPlayerHanging();
+                System.out.println(player.showPlayerHanging());
                 game.showWord();
 
                 System.out.print("Letras ja utilizadas: ");
@@ -52,19 +53,32 @@ public class Main {
                 player = game.addCharToList(character, player);
 
                 if (player.isAlive()) {
+                    UsedCharsToStringAdapter usedCharsToStringAdapter = new UsedCharsToStringAdapter(game.getUsedChars());
                     System.out.println(player.getName() + " voce perdeu. Tente novamente.");
                     System.out.println("A palavra era: " + game.getWord().value().toUpperCase());
-                    System.out.println("Letras utilizadas: " + game.getUsedChars());
+                    System.out.println("Letras utilizadas: " + usedCharsToStringAdapter.getUsed());
                     System.out.println("A dificuldade era: " + game.getWord().difficulty());
+
+                    commands.add(new WordsLog(game.getWord().value().toUpperCase(), usedCharsToStringAdapter.getUsed()));
+                    commands.add(new GameLog(player.showPlayerHanging()));
+                    commands.execAll();
+
                     play = playAgain(scanner, play);
+
                 }
                 if (game.isComplete()) {
+                    UsedCharsToStringAdapter usedCharsToStringAdapter = new UsedCharsToStringAdapter(game.getUsedChars());
                     System.out.println("**********");
-                    player.showPlayerHanging();
+                    System.out.println(player.showPlayerHanging());
                     System.out.println("A palavra era: " + game.getWord().value().toUpperCase());
-                    System.out.println("Letras utilizadas: " + game.getUsedChars());
+                    System.out.println("Letras utilizadas: " + usedCharsToStringAdapter.getUsed());
                     System.out.println(player.getName() + " PARABENS!!! Voce ganhou!!!");
                     System.out.println("**********");
+
+                    commands.add(new WordsLog(game.getWord().value().toUpperCase(), usedCharsToStringAdapter.getUsed()));
+                    commands.add(new GameLog(player.showPlayerHanging()));
+                    commands.execAll();
+
                     play = playAgain(scanner, play);
                 }
             }

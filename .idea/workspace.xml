@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88d7bf84-9301-424c-a17b-bf7200f11b9f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/hangman/GameLog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hangman/models/CommandExecuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hangman/models/GameLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hangman/models/ICommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hangman/models/IPlayedChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hangman/models/PlayerLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hangman/models/UsedCharsToStringAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hangman/models/WordsLog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hangman/models/IPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hangman/models/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hangman/models/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hangman/models/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hangman/models/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +26,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -102,6 +114,7 @@
       <workItem from="1652639968871" duration="631000" />
       <workItem from="1652739243860" duration="336000" />
       <workItem from="1652739598111" duration="5000" />
+      <workItem from="1656360473026" duration="8219000" />
     </task>
     <servers />
   </component>
