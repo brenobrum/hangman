@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="88d7bf84-9301-424c-a17b-bf7200f11b9f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hangman/db/words.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hangman/models/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hangman/models/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager" selected="Application.Main">
@@ -99,7 +98,10 @@
       <workItem from="1651342014184" duration="2700000" />
       <workItem from="1651514385569" duration="604000" />
       <workItem from="1651530574064" duration="1331000" />
-      <workItem from="1651545573159" duration="2355000" />
+      <workItem from="1651545573159" duration="2571000" />
+      <workItem from="1652639968871" duration="631000" />
+      <workItem from="1652739243860" duration="336000" />
+      <workItem from="1652739598111" duration="5000" />
     </task>
     <servers />
   </component>
